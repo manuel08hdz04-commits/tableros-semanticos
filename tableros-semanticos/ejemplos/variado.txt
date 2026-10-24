@@ -1,0 +1,5 @@
+# Usa los cinco conectivos
+Si hace frío y llueve, entonces me quedo en casa.
+Estudio si y solo si no voy a trabajar.
+Hace frío o llueve.
+No me quedo en casa.

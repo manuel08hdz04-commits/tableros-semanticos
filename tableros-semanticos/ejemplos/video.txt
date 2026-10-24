@@ -1,0 +1,4 @@
+# Caso mínimo del video: 2 ramas cerradas, 1 abierta (p=V, q=V, r=F)
+Si es de día, entonces voy a trabajar.
+Si llueve, entonces no voy a trabajar.
+Es de día.
